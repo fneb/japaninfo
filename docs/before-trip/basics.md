@@ -3,7 +3,7 @@
 So, the basics about Japan.
 
 - Capital city: Tokyo, 東京.
-- Official language: Japanese, 日本語. The character sets used are hiragana (ひらがな) and katakana (カタカナ) which collectively form the kana, and kanji (漢字) or Chinese characters. Written Japanese will typically use a mix of these, along with some occasional romaji (ロマジ) - Roman letters.
+- Official language: Japanese, 日本語. The character sets used are hiragana (ひらがな) and katakana (カタカナ) which collectively form the kana, and kanji (漢字) or Chinese characters. Written Japanese will typically use a mix of these, along with some occasional romaji (ロマジ) - Roman letters. Writing is traditionally written in lines from top-to-bottom, with subsequent lines being to the left (meaning books start from the "back"), but will also be written in the same way as English - left-to-right, with subsequent lines being below.
 - Number system: Mostly, Arabic number characters are used (so, 1, 5, 643, etc.). Some places, such as some restaurant menus' pricing (places where they're not expecting international tourists) may use the kanji numbers instead, but it's not too common and you can probably use an app to figure it out.
 - Currency: Yen, JPY. Currency symbols: Internationally, ¥ (used as a prefix) but domestically 円 (used as a suffix) is mostly used. There's no decimal point or sub-currency unit like cents or pence in other currencies - 1円 is the smallest demonination of currency.
 - Currency conversion: I generally use the rule of thumb of 100円 is USD $1, though it's actually a bit weaker than that. Head [here](https://fx-rate.net/calculator/?c_input=JPY&cp_input=USD&amount_from=1000) to check out the current rate.
