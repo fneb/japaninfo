@@ -27,8 +27,8 @@ The draws to me of Japan are:
 
  - Aspects of the culture and history. The country still feels quite connected with its pre-20th century past due to how rapidly it modernised. People are generally respectful and polite and whatnot that appeals to parts of my Britishness - we may be known as being fond of queueing, but we don't like queueing as much as in Japan.
  - The pleasant feeling of cities and the beautiful countryside. When I last went to Tokyo I was surprised at how at home I felt there. I do live in a big city, London, myself so that'll definitely be part of it (though it is still far smaller than Tokyo), but it felt pretty comfortable to me. And the countryside is beautiful, similarly comfortable for different reasons, and quiet. With most of the population based in cities, the countryside is pretty quiet. I live in a big city but grew up in the countryside, so I feel the appeal of this too.
-  - Fiction that the country produces. I couldn't tell you why, but I really like the different way that storytelling is done is in Japanese fiction. I mostly read yuri manga, which is essentially lesbian fiction, and I really like the gentle pace and mostly-realistic nature of "slice-of-life" material.
-  - Hot springs! I do wish we had similar bathing over here in Europe.
+ - Fiction that the country produces. I couldn't tell you why, but I really like the different way that storytelling is done is in Japanese fiction. I mostly read yuri manga, which is essentially lesbian fiction, and I really like the gentle pace and mostly-realistic nature of "slice-of-life" material.
+ - Hot springs! I do wish we had similar bathing over here in Europe.
 
 The things that I don't like about Japan as much:
 
