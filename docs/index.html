@@ -62,7 +62,7 @@
           '/': 'Search'
         }
       },
-      formatUpdated: '{MM}/{DD} {HH}:{mm}',
+      formatUpdated: '{YYYY}-{MM}-{DD} {HH}:{mm}',
       plugins: [
         function (hook, vm) {
           hook.beforeEach(function (html) {
@@ -73,7 +73,7 @@
             } else {
               url = 'https://github.com/docsifyjs/docsify/blob/master/docs/' + vm.route.file
             }
-            var editHtml = '[:memo: Edit Document](' + url + ')\n'
+
 
             return editHtml
               + html
