@@ -1,12 +1,12 @@
 ![logo](_media/icon.svg)
 
-# docsify <small>4.10.2</small>
+# Japan Travel Tips <small>Last updated: 2020-01-31</small>
 
-> A magical documentation site generator.
+> A bunch of helpful information for visiting Japan.
 
-- Simple and lightweight (~21kB gzipped)
-- No statically built html files
-- Multiple themes
+- Getting around
+- Buying things
+- Driving and the roads
 
 [GitHub](https://github.com/docsifyjs/docsify/)
 [Getting Started](#docsify)
