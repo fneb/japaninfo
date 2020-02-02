@@ -15,8 +15,7 @@ So, the basics about Japan.
   - Kyushu 九州 to the south-west, including the cities of Nagasaki 長崎, Fukuoka 福岡 and Kumamoto 熊本.
   - Hokkaido 北海道 to the north and so, a bunch colder. Sapporo 札幌 is the main city here.
   - Shikoku 四国 south of Honshu and east of Kyushu. 
-  - Okinawa 沖縄, a set of tropical/subtropical islands further south-west of Kyushu. No-where near as big as the four main islands above, but worth noting.
-  
+  - Okinawa 沖縄, a set of tropical/subtropical islands further south-west of Kyushu. No-where near as big as the four main islands above, but worth noting.    
  The biggest city areas are Tokyo by a long way (around 38 million for the Kanto region which encompasses the Tokyo metropolitan area), then Osaka and nearby cities (Osaka, Kobe, Kyoto form the Keihanshin area of around 19 million).  
 
 ![A simple map of Japan](https://github.com/fneb/japaninfo/raw/master/docs/_media/japan-map.jpeg)
