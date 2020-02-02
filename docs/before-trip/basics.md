@@ -1,4 +1,4 @@
-# Basic facts
+# Basic facts {docsify-ignore}
 
 So, the basics about Japan.
 
