@@ -1,4 +1,4 @@
-# Travelling to Japan
+# Travelling to Japan {docsify-ignore}
 
 Naturally, the first thing to travelling to Japan is physically getting there.
 
