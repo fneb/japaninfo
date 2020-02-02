@@ -1,7 +1,6 @@
 # What to take
 
 While there are plenty of things that are typical "holiday" things to bring, there are a few things worth making sure you have.
-
 - A pen. You'll need to fill in an immigration form and a customs form on the plane, to hand in at the relevant places when going through the airport. Make sure you have a pen handy in your hand luggage as a result.
 - A towel and some body soap alongside shampoo/conditioner. Some places, particularly if it's a public bath as part of your accommodation, will have towels and body soap/shampoo/conditioner of their own for you to use, but if you're going to a sentou (public bathhouse) you'll likely need your own. You can always buy these in Japan, though.
 - Something to scrub yourself with in an onsen/public bath, such as a flannel, a body sponge, loofah, or the like. Even if the bath you're going to provides towels and soap, they won't provide you with something along these lines. More info on the onsen ettiquette page.
