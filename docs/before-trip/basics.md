@@ -18,5 +18,5 @@ So, the basics about Japan.
   - Okinawa 沖縄, a set of tropical/subtropical islands further south-west of Kyushu. No-where near as big as the four main islands above, but worth noting.
   The biggest city areas are Tokyo by a long way (around 38 million for the Kanto region which encompasses the Tokyo metropolitan area), then Osaka and nearby cities (Osaka, Kobe, Kyoto form the Keihanshin area of around 19 million). 
 
-![A simple map of Japan](https://github.com/fneb/japaninfo/raw/master/docs/_media/japan-map.jpeg ':size=40%')
+![A simple map of Japan](https://github.com/fneb/japaninfo/raw/master/docs/_media/japan-map.jpeg)
 A simple map of Japan. It's about 250 miles/400 kilometres from Osaka to Tokyo, as the crow flies. Map tiles from [Stamen Design](http://maps.stamen.com/watercolor/#6/39.334/137.406), Map data from [Open Street Map](https://openstreetmap.org).
