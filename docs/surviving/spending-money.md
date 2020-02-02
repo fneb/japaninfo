@@ -1,4 +1,4 @@
-# Spending money
+# Spending money {docsify-ignore}
 
 - As mentioned in the [Basics](before-trip/basics.md) page, the currency in Japan is the Yen. While internationally the symbol ¥ is used, this isn't the symbol typically used in Japan. You'll usually see money values written with Arabic numerals and with the 円 character as a suffix. So, for instance, 1000円. And there are no sub-values of yen, 1円 is the lowest value of currency. You can use [this page](https://fx-rate.net/calculator/?c_input=JPY&cp_input=USD&amount_from=1000) to see the current exchange rate to USD or your currency of choice.
 
