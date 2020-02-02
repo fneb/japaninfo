@@ -1,7 +1,6 @@
 # Spending money {docsify-ignore}
 
 - As mentioned in the [Basics](before-trip/basics.md) page, the currency in Japan is the Yen. While internationally the symbol ¥ is used, this isn't the symbol typically used in Japan. You'll usually see money values written with Arabic numerals and with the 円 character as a suffix. So, for instance, 1000円. And there are no sub-values of yen, 1円 is the lowest value of currency. You can use [this page](https://fx-rate.net/calculator/?c_input=JPY&cp_input=USD&amount_from=1000) to see the current exchange rate to USD or your currency of choice.
-
 - Tax isn't included in the listed price on most things. At the time of writing, consumption tax is 10%, which makes adding it to the cost of things easy enough. There may be additional taxes beyond this, such as a hotel tax.
 - Many places are cash-only. As a result, ATMs will give you the option to withdraw large amounts. Whereas here in the UK the lowest option that an ATM will typically give you to withdraw is £10, in Japan it's more like 10,000円 - around £70 at time of writing. Make sure you keep a fair bit of cash on you, including to cover for bills at restaurants. Hotels will generally take card though as will larger chains of shops and restaurants, as well as more places in cities versus the countryside.
 - Speaking of restaurants: No tipping. It's not the culturally expected thing. So, the price you pay on the bill is the whole amount. Don't try and tip or you'll confuse the staff!
