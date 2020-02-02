@@ -1,4 +1,4 @@
-# What to take
+# What to take {docsify-ignore}
 
 While there are plenty of things that are typical "holiday" things to bring, there are a few things worth making sure you have.
 - A pen. You'll need to fill in an immigration form and a customs form on the plane, to hand in at the relevant places when going through the airport. Make sure you have a pen handy in your hand luggage as a result.
