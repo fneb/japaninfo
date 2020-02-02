@@ -1,4 +1,4 @@
-# Basics
+# Basic facts
 
 So, the basics about Japan.
 
@@ -10,5 +10,13 @@ So, the basics about Japan.
 - Roads: Drive on the left, use metric units. Kilometres for distance, kmph for speed.
 - Date format: Year (年), month (月), date/day (日). Month, date for short. A character in brackets afterwards indicates the day of the week. For example, ２０２０年０１月３１日 or ０１月３１日（金） would be the date I'm writing this on.
 - Population: Around 126 million. Mostly urbanised.
-- Geography: Japan's a mountainous country, and most cities are on the coasts. It's mostly a long, thin set of islands. The four big islands are Honshu 本州 (the biggest island where most of the famous cities are, including Tokyo, Osaka 大阪, Kyoto 京都, Nagoya 名古屋, Hiroshima 広島, and others), Kyushu 九州 to the south-west (including Nagasaki 長崎, Fukuoka 福岡 and Kumamoto 熊本), Hokkaido 北海道 to the north and so, a bunch colder (Sapporo 札幌 is the main city here), and Shikoku 四国 south of Honshu and east of Kyushu. The biggest city areas are Tokyo by a long way (around 38 million for the Kanto region which encompasses the Tokyo metropolitan area), then Osaka and nearby cities (Osaka, Kobe, Kyoto form the Keihanshin area of around 19 million). Okinawa 沖縄 is a set of tropical/subtropical islands further south-west of Kyushu.
+- Geography: Japan's a mountainous country in the northern hemisphere, and most cities are on the coasts. It's mostly a long, thin set of islands. Area-wise, it's about as big as the UK, the Republic of Ireland, and then another Ireland. The main islands are:
+  - Honshu 本州, the biggest island where most of the famous cities are, including Tokyo, Osaka 大阪, Kyoto 京都, Nagoya 名古屋, Hiroshima 広島, and others.
+  - Kyushu 九州 to the south-west, including the cities of Nagasaki 長崎, Fukuoka 福岡 and Kumamoto 熊本.
+  - Hokkaido 北海道 to the north and so, a bunch colder. Sapporo 札幌 is the main city here.
+  - Shikoku 四国 south of Honshu and east of Kyushu. 
+  - Okinawa 沖縄, a set of tropical/subtropical islands further south-west of Kyushu. No-where near as big as the four main islands above, but worth noting.
+  The biggest city areas are Tokyo by a long way (around 38 million for the Kanto region which encompasses the Tokyo metropolitan area), then Osaka and nearby cities (Osaka, Kobe, Kyoto form the Keihanshin area of around 19 million). 
 
+![A simple map of Japan](https://github.com/fneb/japaninfo/raw/master/docs/_media/japan-map.jpeg ':size=40%')
+A simple map of Japan. It's about 250 miles/400 kilometres from Osaka to Tokyo, as the crow flies. Map tiles from [Stamen Design](http://maps.stamen.com/watercolor/#6/39.334/137.406), Map data from [Open Street Map](https://openstreetmap.org).
