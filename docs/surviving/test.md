@@ -17,6 +17,7 @@ That's it.  Pretty simple.  There's also a drop-down option in the upper right t
 - **Quick Reference:**  A brief run-down of how to format things using markdown.
   - test 1 2 3
   - 4 5 6
+  butt
 - 7 8 9
 
 Why Markdown?
