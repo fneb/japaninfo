@@ -14,12 +14,14 @@ The cheaper options between Narita Airport and Tôkyô are the [Keisei Access Ex
 
 It's worth noting that the Skyliner runs every 20 minutes during the day, but the Keisei main line limited express is only every 40 minutes. No idea on the Access Express.
 
-I found the station at Narita Airport a bit confusing. Fortunately, there are [station maps](http://www.keisei.co.jp/keisei/tetudou/skyliner/us/traffic/station.php) which you can use to figure things out ahead of time. Google Maps will also help you out massively, including telling you how much different routes will cost.
+I found the station at Narita Airport a bit confusing. There are signs that'll point you in the right direction but I ended up getting on the wrong platform anyway. I'll blame jetlag. Fortunately, there are [station maps](http://www.keisei.co.jp/keisei/tetudou/skyliner/us/traffic/station.php) which you can use to figure things out ahead of time. Google Maps will also help you out massively, including telling you how much different routes will cost.
 
-There are also [airport limousine bus services](https://www.limousinebus.co.jp/en/). I think it gives you more options regarding where you're going without having to transfer, but it's a little more expensive than the Skyliner. And if you're thinking of taking a taxi, bear in mind that it's around 80km from central Tôkyô to the airport!
+There are also [airport limousine bus services](https://www.limousinebus.co.jp/en/). I think it gives you more options regarding where you're going without having to transfer, but it's a little more expensive than the Skyliner. And if you're thinking of taking a taxi, bear in mind that it's around 80km from central Tôkyô to the airport and that you'd likely be in traffic for much of that!
 
 ## Haneda Airport (HND)
 
 Haneda Airport is to the south-west of Tôkyô, and is actually in the Tôkyô Metropolis area. Much easier - and cheaper - to travel to Tôkyô as a result, particularly if you're staying in the western or southern areas of Tôkyô. To Ueno - a comparison point that favours links to Narita Airport - it takes around 35-45 minutes and costs ¥500-¥700. I'd suggest using Google Maps to figure out your route, including costs. Use an IC card (Suica or Pasmo) to travel.
 
 Rather than a typical numbered terminal system, Haneda Airport has Terminal 1, Terminal 2, and the International Terminal/Terminal 3. According to Wikipedia, the latter should by now be renamed to Terminal 3, which is good. My flight info told me I was going from Terminal 1, but it was actually the International Terminal. Still, the English website still calls it the "international terminal" so for the time being it may be best to use the [Haneda Airport](http://www.haneda-airport.jp/inter/en/) website to confirm which terminal you're going from.
+
+Personally I found Haneda a much nicer airport than Narita, too. Though Narita was undergoing a lot of work when I went there, probably in preparation for the Olympics.
