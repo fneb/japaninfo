@@ -4,7 +4,7 @@ So, the basics about Japan.
 
 - **Capital city:** Tôkyô, 東京. Circumflex accents or a simple line above the letter both indicate a long vowel sound - it's said as "Toukyou".
 - **Official language:** Japanese, 日本語. It's written with a mix of character sets, one of which is much the same as traditional Chinese. More info [here](before-trip/japanese-language.md).
-- **Number system:** Mostly, Arabic number characters are used (so, 1, 5, 643, etc.). Some places, such as some restaurant menus' pricing (places where they're not expecting international tourists) may use the kanji numbers instead, but it's not too common and you can probably use an app to figure it out.
+- **Number system:** Mostly, Arabic number characters are used (so, 1, 5, 643, etc.). Some places, such as some restaurant menus' pricing (places where they're not expecting international tourists) may use the kanji numbers instead, but it's not too common, still in base-10 format, and you can probably use a translation app or a number chart to figure it out.
 - **Currency:** Yen, JPY. Currency symbols: Internationally, ¥ (used as a prefix) but domestically 円 (used as a suffix) is mostly used. There's no decimal point or sub-currency unit like cents or pence in other currencies - 1円 is the smallest demonination of currency.
 - **Currency conversion:** I generally use the rule of thumb of 100円 is USD $1, though it's actually a bit weaker than that. Head [here](https://fx-rate.net/calculator/?c_input=JPY&cp_input=USD&amount_from=1000) to check out the current rate for 1000円.
 - **Roads:** Drive on the left, use metric units. Kilometres for distance, kmph for speed.
