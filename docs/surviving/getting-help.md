@@ -11,9 +11,9 @@ Japan has separate phone numbers for police, and for fire/ambulance.
 Police: 110
 Fire/Ambulance: 119
 
-Talking in English may be a problem, but in an emergency try anyway. Searching online indicates that English should be okay particularly in bigger cities, and with better luck with the non-police line. If you aren't able to speak with someone in English, try talking in basic verbs/nouns. "Help, money stolen, Ikebukuro, my name is Firstname Lastname", that sort of thing. Japanese as a language uses a fair few loan words from English, so may have middling success.
+Talking in English may be a problem, but in an emergency try anyway. Searching online indicates that English should be okay particularly in bigger cities, and with better luck with the non-police line. If you aren't able to speak with someone in English, try talking in basic verbs/nouns. "Help, money stolen, Ikebukuro, my name is Firstname Lastname", that sort of thing. Japanese as a language uses a fair few loan words from English, so you may have middling success.
 
-Another option for getting help from police is to find a "police box". The Japanese is 交番, "kouban" or "koban" (the former is how it is said, the latter is how it will be written on the building itself). A police box is basically a tiny police station, more like a manned post. It'll be somewhere you can find police officers without needing a phone.
+Another option for getting help from police is to find a "police box". The Japanese is 交番, "kôban" (may be written on the building without the accent). A police box is basically a tiny police station, more like a manned post. It'll be somewhere you can find police officers without needing a phone.
 
 ## Dealing with police
 
