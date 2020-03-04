@@ -6,14 +6,14 @@ Hopefully, you won't run into any trouble but you can never predict these things
 
 Japan has separate phone numbers for police, and for fire/ambulance.
 
-**Note that if you have a SIM card for Japan travel, it may not be able to do phone calls.**
+**Note that if you have a Japanese SIM card for travel in Japan, it may not be able to do phone calls.**
 
 Police: 110
 Fire/Ambulance: 119
 
 Talking in English may be a problem, but in an emergency try anyway. Searching online indicates that English should be okay particularly in bigger cities, and with better luck with the non-police line. If you aren't able to speak with someone in English, try talking in basic verbs/nouns. "Help, money stolen, Ikebukuro, my name is Firstname Lastname", that sort of thing. Japanese as a language uses a fair few loan words from English, so you may have middling success.
 
-Another option for getting help from police is to find a "police box". The Japanese is 交番, "kôban" (may be written on the building without the accent). A police box is basically a tiny police station, more like a manned post. It'll be somewhere you can find police officers without needing a phone.
+Another option for getting help from police is to find a "police box". The Japanese is 交番, "kōban" (may be written on the building without the diacritical mark). A police box is basically a tiny police station, more like a manned post. It'll be somewhere you can find police officers without needing a phone.
 
 ## Dealing with police
 
