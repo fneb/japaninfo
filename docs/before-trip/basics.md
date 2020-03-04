@@ -14,7 +14,7 @@ So, the basics about Japan.
   - Honshū 本州, the biggest island where most of the famous cities are, including Tōkyō, Ōsaka 大阪, Kyōto 京都, Nagoya 名古屋, Hiroshima 広島, and others.
   - Kyūshū 九州 to the south-west, including the cities of Nagasaki 長崎, Fukuoka 福岡 and Kumamoto 熊本.
   - Hokkaidō 北海道 to the north, and as a result a bunch colder. Sapporo 札幌 is the main city here.
-  - Shikoku 四国 south of Honshū and east of Kyūshū. 
+  - Shikoku 四国 south of Honshū and east of Kyūshū. Biggest city here is Matsuyama, 松山.
   - Okinawa 沖縄, the main island of a set of tropical/subtropical islands further south-west of Kyushu. No-where near as big as the four main islands above, but worth noting.    
 - The biggest city areas are Tōkyō by a long way (around 38 million for the Kantô region which encompasses the Tōkyō metropolitan area), then Ōsaka and nearby cities (Ōsaka, Kōbe, Kyōto form the Keihanshin area of around 19 million).  
 
