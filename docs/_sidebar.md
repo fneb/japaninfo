@@ -1,29 +1,15 @@
-- Getting started
+- Before your trip
 
-  - [Quick start](quickstart.md)
-  - [Writing more pages](more-pages.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
+  - [Basics](before-trip/basics.md)
+  - [What to take with you](before-trip/what-to-take.md)
+  - [Getting to Japan](before-trip/travelling-to-japan.md)
 
-- Customization
+- Day-to-day
 
-  - [Configuration](configuration.md)
-  - [Themes](themes.md)
-  - [List of Plugins](plugins.md)
-  - [Write a Plugin](write-a-plugin.md)
-  - [Markdown configuration](markdown.md)
-  - [Language highlighting](language-highlight.md)
-  - [Emoji](emoji.md)
-
-- Guide
-
-  - [Deploy](deploy.md)
-  - [Helpers](helpers.md)
-  - [Vue compatibility](vue.md)
-  - [CDN](cdn.md)
-  - [Offline Mode (PWA)](pwa.md)
-  - [Server-Side Rendering (SSR)](ssr.md)
-  - [Embed Files](embed-files.md)
-
-- [Awesome docsify](awesome.md)
-- [Changelog](changelog.md)
+  - [Getting around](day-to-day/getting-around.md)
+  - [What to carry](day-to-day/what-to-carry.md)
+  - [Useful Japanese words (reading)](day-to-day/useful-japanese-reading.md)
+  
+- Surviving in Japan
+ 
+  - [Spending money](surviving/spending-money.md)
