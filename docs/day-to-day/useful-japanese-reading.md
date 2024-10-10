@@ -20,7 +20,7 @@ Some Japanese you'll never need to say, but may need to read - for instance, to 
 
 ## Numbers
 
-## Some restaurant signs - typically when the menu is written on boards on the wall (with text written vertically) rather than a hand-out menu - use *some* Japanese numbers. For instance, 六五〇円. This isn't technically proper Japanese but that's handy for us as it means just needing a list of numbers from 1 to 10.
+Some restaurant signs - typically when the menu is written on boards on the wall (with text written vertically) rather than a hand-out menu - use *some* Japanese numbers. For instance, 六五〇円. This isn't technically proper Japanese but that's handy for us as it means just needing a list of numbers from 1 to 10.
 
 * 一 - 1
 * ニ - 2
